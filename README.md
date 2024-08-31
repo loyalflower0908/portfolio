@@ -31,14 +31,48 @@
 <br>
 
 
-# 📝 Projects
+# 📝 Projects 
+
+(아래로 갈수록 오래된 프로젝트입니다)
 
 <br>
 
-## 1. ☀️ RISE ☀️
+## 1. 🍲 나만의 레시피 🍲 (개인 프로젝트)
+"나만의 레시피"는 사용자가 자신만의 레시피를 작성, 보관, 편집할 수 있는 안드로이드 앱입니다.
+
+또한, 오늘 살 것 리스트를 작성하거나, 유튜브 레시피 영상을 검색하고 북마크하는 기능도 제공합니다.
+
+MVVM 패턴을 사용하였고 심플한 UI로 직관적으로 만들었습니다.
+
+### 📚 Skills: MVVM, Jetpack Compose, Dagger Hilt, Kotlin Coroutines & Flow, Retrofit2, Room DB, TypeSafeNavigationCompose
+
+
+<br>
+
+>✨ 주요 기능 ✨
+>
+>레시피 작성 및 관리: 사용자는 새로운 레시피를 작성하고 저장, 편집, 삭제할 수 있습니다.
+>
+>오늘 살 것 작성 및 관리: 쇼핑 리스트를 작성하여 필요한 재료를 관리할 수 있습니다.
+>
+>레시피 영상 검색: 앱 내에서 유튜브를 검색하여 다양한 요리 영상을 찾고 볼 수 있습니다.
+>
+>영상 북마크 저장: 좋아하는 요리 영상을 북마크하여 나중에 쉽게 찾을 수 있습니다.
+
+<br>
+
+#### 가장 자신있는 해당 프로젝트를 보고 싶다면? -> [프로젝트 바로가기](https://github.com/loyalflower0908/RISE)
+
+<br>
+<br>
+
+
+## 2. ☀️ RISE ☀️ (팀 프로젝트)
 소상공인들을 위해 특색있는 QR코드를 제작해주는 서비스를 중심으로,
 
 신청한 브랜드의 관련 이미지를 분석해서 키워드를 뽑아내고 키워드나 사용자의 명령을 기반으로 특색있는 QR이미지를 생성한다.
+
+### 📚 Skills: Jetpack Compose, Firebase Authentication, Firebase Storage, Firebase RealtimeDB, Kakao SDK(Login), Lottie, Retrofit2
 
 <br>
 
@@ -51,8 +85,6 @@
 >kakao login API를 통해 카카오 로그인, Firebase Auth를 통해 구글, 이메일, 깃허브 로그인 및 유저 관리와 로그아웃을 개발하였다.
 >
 >Navigation을 통한 화면 전환, Lottie를 이용해 로딩 화면을 구성하였고 값을 페이지로 넘겨주는 등의 기본 기능들을 구현하였다.
->
->- Skill: Jetpack Compose, Firebase Authentication, Firebase Storage, Firebase RealtimeDB, Kakao SDK(Login), Lottie, Retrofit2
 
 <br>
 
@@ -61,12 +93,14 @@
 <br>
 <br>
 
-## 2. 🐶 Stray 🐱
+## 3. 🐶 Stray 🐱 (팀 프로젝트)
 실종 동물을 찾거나 유기 동물을 접수하는데 도움을 주는 서비스를 제공한다.
 
 실시간으로 카메라를 찍으면 종을 분석하고 위치와 시간을 업로드해서 떠돌이 동물 지도에 등록, 해당 동물 정보를 확인할 수 있다.
 
 그리고 커뮤니티를 넣고 각종 비즈니스 모델을 위한 틀을 구현해놓았다.
+
+### 📚 Skills: Jetpack Compose, Firebase Authentication, Firebase Storage, Firebase FirestoreDB, Naver Map API(Mobile Dynamic Map, Geocoding, Reverse Geocoding), Retrofit2, Flask, Figma
 
 <br>
 
@@ -79,7 +113,6 @@
 >Geocoding, Reverse Geocoding 을 등록과 검색 등에 적용하였다.
 >
 >Retrofit2를 통해서 구현하였고 받은 값을 관리하기 위해 DB와 연동하였다.
->- Skill: Jetpack Compose, Firebase Authentication, Firebase Storage, Firebase FirestoreDB, Naver Map API(Mobile Dynamic Map, Geocoding, Reverse Geocoding), Retrofit2, Flask, Figma
 
 <br>
 
