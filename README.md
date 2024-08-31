@@ -61,7 +61,7 @@ MVVM 패턴을 사용하였고 심플한 UI로 직관적으로 만들었습니�
 
 <br>
 
-#### 가장 자신있는 해당 프로젝트를 보고 싶다면? -> [프로젝트 바로가기](https://github.com/loyalflower0908/RISE)
+#### 가장 자신있는 해당 프로젝트를 보고 싶다면? -> [프로젝트 바로가기](https://github.com/loyalflower0908/MyRecipeApp)
 
 <br>
 <br>
